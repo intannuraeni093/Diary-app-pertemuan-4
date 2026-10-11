@@ -22,6 +22,6 @@ Aplikasi buku harian sederhana dengan Expo / React Native.
 
 # Screenshot
 
-![Aplikasi berjalan](screenshots/hasil.jpg)
+![Aplikasi berjalan](screenshoot/hasil.jpg)
 
 > Screenshot diambil dari expo go
